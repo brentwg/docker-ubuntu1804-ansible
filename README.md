@@ -1,6 +1,6 @@
 # Ubuntu 18.04 (Bionic Beaver) Ansible Test Image
 
-[![Docker Automated build](https://img.shields.io/docker/automated/brentwg/docker-ubuntu1804-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/brentwg/docker-ubuntu1804-ansible/) [![Build Status](https://travis-ci.org/brentwg/docker-ubuntu1804-ansible.svg?branch=master)](https://travis-ci.org/brentwg/docker-ubuntu1804-ansible)
+[![Docker Automated build](https://img.shields.io/docker/automated/brentwg/docker-ubuntu1804-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/brentwg/docker-ubuntu1810-ansible/) [![Build Status](https://travis-ci.org/brentwg/docker-ubuntu1810-ansible.svg?branch=master)](https://travis-ci.org/brentwg/docker-ubuntu1804-ansible)
 
 Ubuntu 18.04 (Bionic Beaver) Docker container for Ansible playbook and role testing. Everything which follows borrows *extensively* from the wise examples of Jeff Geerling. He is an amazing teacher. Look him up someday.
 
