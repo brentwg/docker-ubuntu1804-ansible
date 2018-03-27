@@ -12,7 +12,7 @@ If you want to build this image yourself, you could perform the following steps:
 2. `cd` into this directory
 3. Run the following command
 ```
-docker build -t ubuntu1710-ansible .
+docker build -t ubuntu1804-ansible .
 ```
 
 ## Usage  
